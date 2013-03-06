@@ -1,0 +1,2 @@
+C:\Users\t-blainm\Documents\Visual Studio 2008\Projects\Aether\Aether\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\Content\obj\x86\Debug\ResolveAssemblyReference.cache

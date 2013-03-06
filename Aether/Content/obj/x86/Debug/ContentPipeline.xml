@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>CourierNew.spritefont</Source>
+      <Name>CourierNew</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\CourierNew.xnb</Output>
+      <Time>2008-10-29T14:41:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TextBox1.bmp</Source>
+      <Name>TextBox1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\TextBox1.xnb</Output>
+      <Time>2009-01-11T01:30:58.09375+00:00</Time>
+    </Item>
+    <Item>
+      <Source>character.png</Source>
+      <Name>character</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\character.xnb</Output>
+      <Time>2009-01-11T23:54:58.625+00:00</Time>
+    </Item>
+    <Item>
+      <Source>HPBar.png</Source>
+      <Name>HPBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\HPBar.xnb</Output>
+      <Time>2009-03-15T21:01:16.46875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sand.bmp</Source>
+      <Name>sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\sand.xnb</Output>
+      <Time>2009-01-20T23:40:33.859375+00:00</Time>
+    </Item>
+    <Item>
+      <Source>grass.bmp</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2009-01-20T23:40:46.984375+00:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroForeground.png</Source>
+      <Name>HeroForeground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\HeroForeground.xnb</Output>
+      <Time>2009-01-25T03:37:27.40625+00:00</Time>
+    </Item>
+    <Item>
+      <Source>blueglass.png</Source>
+      <Name>blueglass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\blueglass.xnb</Output>
+      <Time>2009-02-13T18:53:49.90625+00:00</Time>
+    </Item>
+    <Item>
+      <Source>pinkglass.png</Source>
+      <Name>pinkglass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\pinkglass.xnb</Output>
+      <Time>2009-02-13T18:53:49.875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>redglass.png</Source>
+      <Name>redglass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\redglass.xnb</Output>
+      <Time>2009-02-13T18:53:49.90625+00:00</Time>
+    </Item>
+    <Item>
+      <Source>battlebg.bmp</Source>
+      <Name>battlebg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\battlebg.xnb</Output>
+      <Time>2009-03-06T11:14:42.640625+00:00</Time>
+    </Item>
+    <Item>
+      <Source>spider.png</Source>
+      <Name>spider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\spider.xnb</Output>
+      <Time>2009-03-12T00:18:38.546875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>HeroBattle.png</Source>
+      <Name>HeroBattle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\HeroBattle.xnb</Output>
+      <Time>2009-03-18T01:47:55.375+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Wall.bmp</Source>
+      <Name>Wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\Wall.xnb</Output>
+      <Time>2009-03-20T01:32:14.453125+00:00</Time>
+    </Item>
+    <Item>
+      <Source>roof.bmp</Source>
+      <Name>roof</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\roof.xnb</Output>
+      <Time>2009-03-20T01:33:46.53125+00:00</Time>
+    </Item>
+    <Item>
+      <Source>door.bmp</Source>
+      <Name>door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\door.xnb</Output>
+      <Time>2009-03-20T01:33:59.59375+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bridge1.bmp</Source>
+      <Name>bridge1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\bridge1.xnb</Output>
+      <Time>2009-03-20T01:35:04.421875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bridge2.bmp</Source>
+      <Name>bridge2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\bridge2.xnb</Output>
+      <Time>2009-03-20T01:35:04.484375+00:00</Time>
+    </Item>
+    <Item>
+      <Source>water.bmp</Source>
+      <Name>water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\water.xnb</Output>
+      <Time>2009-04-01T19:46:40.15625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>overworldtileset.bmp</Source>
+      <Name>overworldtileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\overworldtileset.xnb</Output>
+      <Time>2009-04-09T12:25:45.34375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Rose.png</Source>
+      <Name>Rose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\Rose.xnb</Output>
+      <Time>2010-03-04T17:08:49.46875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>AetherSplashScreen.bmp</Source>
+      <Name>AetherSplashScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\AetherSplashScreen.xnb</Output>
+      <Time>2010-03-04T17:27:01.1875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>titlescreen.mp3</Source>
+      <Name>titlescreen</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\titlescreen.xnb</Output>
+      <Extra>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\titlescreen.wma</Extra>
+      <Time>2009-01-20T15:51:09.171875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>world1.mp3</Source>
+      <Name>world1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\world1.xnb</Output>
+      <Extra>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\world1.wma</Extra>
+      <Time>2009-01-20T15:52:05.03125+00:00</Time>
+    </Item>
+    <Item>
+      <Source>battle.mp3</Source>
+      <Name>battle</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\battle.xnb</Output>
+      <Extra>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\battle.wma</Extra>
+      <Time>2009-03-06T12:26:27.65625+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Blain\My Documents\LaceAgater\Aether\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T18:42:32+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T18:43:28+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T18:43:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T18:48:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T18:48:50+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-09T00:05:48.75+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
